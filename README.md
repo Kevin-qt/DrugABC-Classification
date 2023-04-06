@@ -2,7 +2,7 @@
 ![alt text](https://github.com/Kevin-qt/DrugXYZ-Classification/blob/main/drugs.jpg)
 
 ### Problem Statement:
-Drugs are medicine that has a physiological effect when ingested into the body to tackle certain symptoms or dieases a person have. Different types of drug may induce different reaction and side effect to a person's body. People may also have different response to the same type of drug taken. We would like to know about the reaction of different test subjects after taking 5 types of drugs. This study aims to predict the type of drug a subject takes, given his body readings after taking the drug.
+Drug is medicine that has a physiological effect when ingested into the body to tackle certain symptoms or dieases a person have. Different types of drug may induce different response and side effect to a person's body. People may also have different reaction to the same type of drug taken. We would like to know about the reaction of 200 test subjects after taking 5 types of drug. This study aims to predict the type of drug a subject takes, given his body readings after taking the drug.
 
 This dataset was published by Pratham Tripathi on [Kaggle](https://www.kaggle.com/datasets/prathamtripathi/drug-classification). <br>
 It is a fictional dataset for study purpose only.
