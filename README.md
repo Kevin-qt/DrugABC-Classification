@@ -1,4 +1,4 @@
-# DrugXYZ-Classification
+# DrugABC-Classification
 ![alt text](https://github.com/Kevin-qt/DrugXYZ-Classification/blob/main/drugs.jpg)
 
 ### Problem Statement:
