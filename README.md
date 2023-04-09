@@ -20,4 +20,4 @@ It is a fictional dataset for study purpose only.
 
 ### Objective
 - To identify the features that help classify drug taken
-- To build a model to predict the type of drug a person taken based on his body readings
+- To build a K-Nearest Neighbors model to predict the type of drug that a person took based on his body readings
