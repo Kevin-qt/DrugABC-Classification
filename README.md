@@ -1,5 +1,5 @@
 # DrugABC Classification
-![alt text](https://github.com/Kevin-qt/DrugXYZ-Classification/blob/main/drugs.jpg)
+![image](https://github.com/Kevin-qt/DrugABC-Classification/blob/main/drugs.jpg)
 
 ### Problem Statement:
 Drug is medicine that has a physiological effect when ingested into the body to tackle certain symptoms or dieases a person have. Different types of drug may induce different response and side effect to a person's body. People may also have different reaction to the same type of drug taken. We would like to know about the reaction of 200 test subjects after taking 5 types of drug. This study aims to predict the type of drug a subject takes, given his body readings after taking the drug.
